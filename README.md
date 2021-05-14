@@ -17,7 +17,7 @@ Desktop-chatbot-app->
 For Window user, there is no extra dependencies to be installed however for those in Linux or Mac sometimes Python does not come with Tkinter installed so you might have to install it manually;
 
 ```bash
-sudo apt-get python3-tk
+sudo apt-get install python3-tk
 ```
 
 ## launching
